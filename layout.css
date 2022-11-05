@@ -1,25 +1,29 @@
 body {
-    background-color: lightcoral;
-  }
+    background-color: lightcoral;  
+  }  <!--Achter grondkleur-->
   
   h2 {
     color: black;
     text-align: center;
-
-  }
+  }<!--de horizontale uitlijning van tekst in een element-->
   
   p {
-    font-family: verdana;
+    font-family: verdana; 
     font-size: 20px;
   }
-
-  ul {
+<!--front-size is de grote van de tekst-->
+<!--een lijst met lettertypen, van de hoogste prioriteit naar de laagste-->
+ 
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     width: 400px;
     background-color: #f1f1f1;
   }
+  <!--list-style-type zijn markeringen van een element-->
+  <!--margin is de ruimte rond een html-element-->
+  <!--padding is de ruimte tussen de inhoud en de rand-->
   
   li a {
     display: block;
@@ -27,6 +31,9 @@ body {
     padding: 8px 16px;
     text-decoration: none;
   }
+  <!--display is de weergave van een element-->
+  <!--text-decoration is decoratie aan je tekst-->
+
   
   /*  */
   li a:hover {
