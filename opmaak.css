@@ -76,26 +76,4 @@
 }
 .top-level-menu a:hover { color: #000000; }
 
-/*m1 is een menu van dropdownmenu.html*/
-#m1 {
-    color: slateblue;
-    background-color: rgb(205, 90, 182);
-}
 
-li a {
-    display: block;
-    color: #000;
-    padding: 8px 16px;
-    text-decoration: none;
-  }
-  
-  /* bij hoveren verandert de kleur van de link */
-  li a:hover {
-    background-color: #555;
-    color: white;
-  }
-
-  #m1 {
-    text-align: center;
-
-  }>
