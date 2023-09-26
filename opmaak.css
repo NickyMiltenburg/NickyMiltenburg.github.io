@@ -16,7 +16,7 @@
     height: 30px;
     background: #196666;
 }
-.third-level-menu > li:hover { background: #80bfff; }
+.third-level-menu > li:hover { background: #adebeb; }
 
 .second-level-menu
 {
@@ -36,7 +36,7 @@
     height: 30px;
     background: #196666;
 }
-.second-level-menu > li:hover { background: #80bfff}
+.second-level-menu > li:hover { background: #adebeb}
 
 .top-level-menu
 {
@@ -58,7 +58,7 @@ body {
     background-color: #2eb8b8;  
   } <!--Achter grondkleur--> 
   
-.top-level-menu > li:hover { background: #80bfff; }
+.top-level-menu > li:hover { background: #adebeb; }
 
 .top-level-menu li:hover > ul
 {
