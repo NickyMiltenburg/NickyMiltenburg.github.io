@@ -39,7 +39,8 @@ body {
     height: 30px;
     background: #999999;
 }
-.second-level-menu > li:hover { background: #cccccc
+.second-level-menu > li:hover { background: #cccccc }
+
 .top-level-menu
 {
     list-style: none;
