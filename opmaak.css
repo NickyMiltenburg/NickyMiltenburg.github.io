@@ -18,10 +18,6 @@
 }
 .third-level-menu > li:hover { background: #cccccc; }
 
-body {
-    background-color: rgb(93, 209, 165);  
-  } <!--Achter grondkleur--> 
-
 .second-level-menu
 {
     position: absolute;
@@ -41,6 +37,10 @@ body {
     background: #999999;
 }
 .second-level-menu > li:hover { background: #cccccc }
+
+body {
+    background-color: rgb(93, 209, 165);  
+  } <!--Achter grondkleur--> 
 
 .top-level-menu
 {
