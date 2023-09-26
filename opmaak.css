@@ -17,9 +17,9 @@ body {
 .third-level-menu > li
 {
     height: 30px;
-    background: white;
+    background: 999999
 }
-.third-level-menu > li:hover { background: blueviolet; }
+.third-level-menu > li:hover { background: cccccc; }
 
 .second-level-menu
 {
@@ -37,10 +37,9 @@ body {
 {
     position: relative;
     height: 30px;
-    background: white;
+    background: 999999;
 }
-.second-level-menu > li:hover { background: blueviolet; }
-
+.second-level-menu > li:hover { background: cccccc
 .top-level-menu
 {
     list-style: none;
@@ -54,9 +53,9 @@ body {
     float: left;
     height: 30px;
     width: 150px;
-    background: white;
+    background: 999999;
 }
-.top-level-menu > li:hover { background: blueviolet; }
+.top-level-menu > li:hover { background: cccccc; }
 
 .top-level-menu li:hover > ul
 {
