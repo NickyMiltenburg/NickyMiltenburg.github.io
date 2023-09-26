@@ -38,10 +38,6 @@
 }
 .second-level-menu > li:hover { background: #cccccc }
 
-body {
-    background-color: rgb(93, 209, 165);  
-  } <!--Achter grondkleur--> 
-
 .top-level-menu
 {
     list-style: none;
@@ -49,6 +45,10 @@ body {
     margin: 0;
 }
 
+body {
+    background-color: rgb(93, 209, 165);  
+  } <!--Achter grondkleur--> 
+  
 .top-level-menu > li
 {
     position: relative;
