@@ -17,7 +17,7 @@ ul {
     margin: 0;
     padding: 0;
     width: 400px;
-    background-color: #f1f1f1;
+    background-color: #196666;
   }
   
   li a {
@@ -29,6 +29,6 @@ ul {
 
   /*  */
   li a:hover {
-    background-color: #555;
+    background-color: #adebeb;
     color: white;
   }
