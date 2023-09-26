@@ -14,9 +14,9 @@
 {
     position: relative;
     height: 30px;
-    background: #999999
+    background: #0066cc
 }
-.third-level-menu > li:hover { background: #cccccc; }
+.third-level-menu > li:hover { background: #80bfff; }
 
 .second-level-menu
 {
@@ -34,9 +34,9 @@
 {
     position: relative;
     height: 30px;
-    background: #999999;
+    background: #0066cc;
 }
-.second-level-menu > li:hover { background: #cccccc }
+.second-level-menu > li:hover { background: #80bfff}
 
 .top-level-menu
 {
@@ -51,14 +51,14 @@
     float: left;
     height: 30px;
     width: 150px;
-    background: #999999;
+    background: #0066cc;
 }
 
 body {
     background-color: rgb(93, 209, 165);  
   } <!--Achter grondkleur--> 
   
-.top-level-menu > li:hover { background: #cccccc; }
+.top-level-menu > li:hover { background: #80bfff; }
 
 .top-level-menu li:hover > ul
 {
