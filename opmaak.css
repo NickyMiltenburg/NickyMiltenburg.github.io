@@ -55,7 +55,7 @@
 }
 
 body {
-    background-color: rgb(93, 209, 165);  
+    background-color: #2eb8b8;  
   } <!--Achter grondkleur--> 
   
 .top-level-menu > li:hover { background: #80bfff; }
